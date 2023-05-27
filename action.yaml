@@ -30,4 +30,4 @@ inputs:
     default: ''
 runs:
   using: docker
-  image: archxlab/aprvlab:latest
+  image: docker://archxlab/aprvlab:latest
